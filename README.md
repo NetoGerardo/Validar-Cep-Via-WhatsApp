@@ -1,7 +1,7 @@
 # Validador de Cep Via WhatsApp
 
 ## Instalação
-A primeira coisa a se fazer é instalar o Selenium:
+A primeira coisa a se fazer é instalar os módulos:
 ```bash
 npm install
 ```
