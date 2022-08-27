@@ -1,7 +1,4 @@
-# SauceDemo
-
-## Versão do Python
-3.10.2
+# Validador de Cep Via WhatsApp
 
 ## Instalação
 A primeira coisa a se fazer é instalar o Selenium:
